@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@rehype-pretty/transformers": "^0.13.2",
     "@tabler/icons-react": "^3.33.0",
     "@tailwindcss/typography": "^0.5.16",
